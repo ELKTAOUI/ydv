@@ -16,7 +16,7 @@ echo $video->getUploadDate();<br>
 echo $video->getDuration();<br>
 echo $video->getViews();<br>
 echo $video->getLikes();<br>
-echo $video->getUser();<br><br><br>
+echo $video->getUser();<br>
 
 <h1>Documentation :</h1>
 http://www.najih.info/ydv
